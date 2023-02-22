@@ -1,0 +1,92 @@
+
+
+.nav-topo {
+  background: #F55A5A;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  height: 90px;
+}
+
+.nav-title {
+  color: #fff;
+}
+
+section {
+  padding: 20px;
+  display: flex;
+  
+  flex-direction: column;
+}
+
+.cards {
+  width: 63%;
+  display: flex;
+
+  margin-bottom: 20px;
+  justify-content: center;
+  
+
+
+}
+
+
+.card-img {
+  width: 220px;
+  height: 300px;
+  border-radius: 9px;
+
+}
+
+.card-info {
+  font-size: 18px;
+  padding: 20px;
+  
+}
+
+.card-local {
+  font-family: "inter";
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  margin-right: 10px;
+  margin-left: 5px;
+  
+}
+
+.card-link {
+  color: #918E9B;
+  font-size: 20px;
+}
+
+.card-nameLocal {
+  font-size: 40px;
+  margin-top: 6px;
+  margin-bottom: 30px;
+}
+
+.card-date {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.card-desc {
+  margin-top: 10px;
+}
+
+.marker {
+
+  color: red;
+  font-size: 25px;
+  margin-bottom: -5px;
+
+}
+
+hr {
+  width: 60%; 
+  color: #F5F5F5;
+  opacity: 0.2;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
